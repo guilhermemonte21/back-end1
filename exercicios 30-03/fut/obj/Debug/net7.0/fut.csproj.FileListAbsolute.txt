@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\fut\bin\Debug\net7.0\fut.exe
+C:\Users\6352573355\Desktop\fut\bin\Debug\net7.0\fut.deps.json
+C:\Users\6352573355\Desktop\fut\bin\Debug\net7.0\fut.runtimeconfig.json
+C:\Users\6352573355\Desktop\fut\bin\Debug\net7.0\fut.dll
+C:\Users\6352573355\Desktop\fut\bin\Debug\net7.0\fut.pdb
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.dll
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\refint\fut.dll
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.pdb
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\fut.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\fut\obj\Debug\net7.0\ref\fut.dll

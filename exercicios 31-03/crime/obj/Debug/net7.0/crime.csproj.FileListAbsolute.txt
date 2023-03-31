@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\crime\bin\Debug\net7.0\crime.exe
+C:\Users\6352573355\Desktop\crime\bin\Debug\net7.0\crime.deps.json
+C:\Users\6352573355\Desktop\crime\bin\Debug\net7.0\crime.runtimeconfig.json
+C:\Users\6352573355\Desktop\crime\bin\Debug\net7.0\crime.dll
+C:\Users\6352573355\Desktop\crime\bin\Debug\net7.0\crime.pdb
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.dll
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\refint\crime.dll
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.pdb
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\crime.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\crime\obj\Debug\net7.0\ref\crime.dll

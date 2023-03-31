@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\Escolar\bin\Debug\net7.0\Escolar.exe
+C:\Users\6352573355\Desktop\Escolar\bin\Debug\net7.0\Escolar.deps.json
+C:\Users\6352573355\Desktop\Escolar\bin\Debug\net7.0\Escolar.runtimeconfig.json
+C:\Users\6352573355\Desktop\Escolar\bin\Debug\net7.0\Escolar.dll
+C:\Users\6352573355\Desktop\Escolar\bin\Debug\net7.0\Escolar.pdb
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.dll
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\refint\Escolar.dll
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.pdb
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\Escolar.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\Escolar\obj\Debug\net7.0\ref\Escolar.dll

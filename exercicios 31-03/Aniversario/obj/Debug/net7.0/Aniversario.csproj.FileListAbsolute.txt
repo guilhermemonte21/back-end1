@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\Aniversario\bin\Debug\net7.0\Aniversario.exe
+C:\Users\6352573355\Desktop\Aniversario\bin\Debug\net7.0\Aniversario.deps.json
+C:\Users\6352573355\Desktop\Aniversario\bin\Debug\net7.0\Aniversario.runtimeconfig.json
+C:\Users\6352573355\Desktop\Aniversario\bin\Debug\net7.0\Aniversario.dll
+C:\Users\6352573355\Desktop\Aniversario\bin\Debug\net7.0\Aniversario.pdb
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.dll
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\refint\Aniversario.dll
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.pdb
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\Aniversario.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\Aniversario\obj\Debug\net7.0\ref\Aniversario.dll

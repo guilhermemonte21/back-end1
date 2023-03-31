@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\circunferencia\bin\Debug\net7.0\circunferencia.exe
+C:\Users\6352573355\Desktop\circunferencia\bin\Debug\net7.0\circunferencia.deps.json
+C:\Users\6352573355\Desktop\circunferencia\bin\Debug\net7.0\circunferencia.runtimeconfig.json
+C:\Users\6352573355\Desktop\circunferencia\bin\Debug\net7.0\circunferencia.dll
+C:\Users\6352573355\Desktop\circunferencia\bin\Debug\net7.0\circunferencia.pdb
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.dll
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\refint\circunferencia.dll
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.pdb
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\circunferencia.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\circunferencia\obj\Debug\net7.0\ref\circunferencia.dll

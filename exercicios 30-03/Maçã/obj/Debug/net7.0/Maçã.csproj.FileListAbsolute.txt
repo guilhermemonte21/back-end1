@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\Maçã\bin\Debug\net7.0\Maçã.exe
+C:\Users\6352573355\Desktop\Maçã\bin\Debug\net7.0\Maçã.deps.json
+C:\Users\6352573355\Desktop\Maçã\bin\Debug\net7.0\Maçã.runtimeconfig.json
+C:\Users\6352573355\Desktop\Maçã\bin\Debug\net7.0\Maçã.dll
+C:\Users\6352573355\Desktop\Maçã\bin\Debug\net7.0\Maçã.pdb
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.dll
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\refint\Maçã.dll
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.pdb
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\Maçã.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\Maçã\obj\Debug\net7.0\ref\Maçã.dll
