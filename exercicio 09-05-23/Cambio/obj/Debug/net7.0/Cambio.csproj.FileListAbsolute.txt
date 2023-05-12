@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\bin\Debug\net7.0\Cambio.exe
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\bin\Debug\net7.0\Cambio.deps.json
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\bin\Debug\net7.0\Cambio.runtimeconfig.json
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\bin\Debug\net7.0\Cambio.dll
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\bin\Debug\net7.0\Cambio.pdb
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.dll
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\refint\Cambio.dll
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.pdb
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\Cambio.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\exercicio 09-05-23\Cambio\obj\Debug\net7.0\ref\Cambio.dll
