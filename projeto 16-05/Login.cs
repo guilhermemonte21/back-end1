@@ -29,14 +29,25 @@ namespace projeto_16_05
 
             if(emailDigitado == usuario.Email && senhaDigitada == usuario.Senha)
             {
+                   this.Logado= true;
+                   Console.WriteLine($"Bem vindo ao sistema");
                    
+            }
+            else{
+                this.Logado=false;
+                Console.WriteLine($"Erro ao entrar no sistema");
+                
+                
             }
 
             
             
 
          }
-        public void Deslogar() { }
+        public void Deslogar()
+         { 
+            Logado=false;
+         }
         public void GerarMenu() { 
             Produto produto = new Produto();
             Marca marca = new Marca();
