@@ -47,11 +47,25 @@ namespace MVC_24_05.Model
                 p.Codigo = int.Parse(atributos[0]);
                 p.Nome = atributos[1];
                 p.Preco = float.Parse(atributos[2]);
+
+                produtos.Add(p);
             }
 
 
             return produtos;
           }
+           public string PrepararLinhasCsv(Produto p)
+        {
+            return $"{p.Codigo};{p.Nome};{p.Preco}";
+        }
+
+       
+        public void Inserir(Produto p)
+        {
+            string[] linhas = { PrepararLinhasCsv(p) };
+
+            File.AppendAllLines(PATH, linhas);
+        }
 
     }
 }
